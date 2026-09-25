@@ -1,20 +1,3 @@
----
-license: cc-by-4.0
-pretty_name: GTA VI Global Price Index
-language:
-  - en
-tags:
-  - gaming
-  - prices
-  - economics
-  - gta-6
-size_categories:
-  - n<1K
-configs:
-  - config_name: default
-    data_files: gta6-price-index.csv
----
-
 # GTA VI Global Price Index
 
 What Grand Theft Auto VI costs in **63 markets**: the official Standard and Ultimate Edition prices from the PlayStation Store and the Xbox Store (**103 listings**), converted to US dollars at official reference exchange rates and set against average pay (ILO) and income (World Bank). Collected 2026-09-23; exchange rates of 2026-09-22.
