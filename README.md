@@ -1,5 +1,7 @@
 # GTA VI Global Price Index
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22965405.svg)](https://doi.org/10.5281/zenodo.22965405)
+
 What Grand Theft Auto VI costs in **63 markets**: the official Standard and Ultimate Edition prices from the PlayStation Store and the Xbox Store (**103 listings**), converted to US dollars at official reference exchange rates and set against average pay (ILO) and income (World Bank). Collected 2026-09-23; exchange rates of 2026-09-22.
 
 Canonical page, methodology and live table: https://leonidalab.com/data/price-index/
@@ -50,6 +52,6 @@ Canonical page, methodology and live table: https://leonidalab.com/data/price-in
 ## License and citation
 CC BY 4.0. Credit **Leonida Lab** with a link to https://leonidalab.com/data/price-index/. ILO and World Bank data are also CC BY 4.0.
 
-> Leonida Lab (2026). GTA VI Global Price Index, version 2026-09-23. https://leonidalab.com/data/price-index/
+> Leonida Lab (2026). GTA VI Global Price Index (Version 2026-09-23) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22965406
 
 Unofficial. Not affiliated with Rockstar Games, Take-Two Interactive, Sony Interactive Entertainment or Microsoft. No game assets are included.
