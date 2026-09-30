@@ -2,14 +2,14 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22965405.svg)](https://doi.org/10.5281/zenodo.22965405)
 
-What Grand Theft Auto VI costs in **63 markets**: the official Standard and Ultimate Edition prices from the PlayStation Store and the Xbox Store (**103 listings**), converted to US dollars at official reference exchange rates and set against average pay (ILO) and income (World Bank). Collected 2026-09-23; exchange rates of 2026-09-22.
+What Grand Theft Auto VI costs in **63 markets**: the official Standard and Ultimate Edition prices from the PlayStation Store and the Xbox Store (**103 listings**), converted to US dollars at official reference exchange rates and set against average pay (ILO) and income (World Bank). Collected 2026-09-30; exchange rates of 2026-09-30.
 
 Canonical page, methodology and live table: https://leonidalab.com/data/price-index/
 
 ## Findings (Standard Edition, listings where the price includes tax)
-- Cheapest: Japan $62.35, India $62.75, South Korea $66.22
-- Most expensive: Colombia (Xbox) $106.47, Israel (PlayStation) $105.71, Hungary (PlayStation) $101.42
-- Hardest to afford (share of an average month's pay, ILO): India 24.6%, Colombia 21.3%, Ukraine 17.0%
+- Cheapest: Japan $62.42, India $62.60, South Korea $66.25
+- Most expensive: Israel (PlayStation) $103.79, Colombia (Xbox) $101.73, Hungary (PlayStation) $99.19
+- Hardest to afford (share of an average month's pay, ILO): India 24.6%, Colombia 20.4%, Ukraine 17.0%
 
 ## Files
 - `gta6-price-index.csv` - one row per market and store (103 rows)
@@ -52,6 +52,6 @@ Canonical page, methodology and live table: https://leonidalab.com/data/price-in
 ## License and citation
 CC BY 4.0. Credit **Leonida Lab** with a link to https://leonidalab.com/data/price-index/. ILO and World Bank data are also CC BY 4.0.
 
-> Leonida Lab (2026). GTA VI Global Price Index (Version 2026-09-23) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22965406
+> Leonida Lab (2026). GTA VI Global Price Index, version 2026-09-30. https://leonidalab.com/data/price-index/
 
 Unofficial. Not affiliated with Rockstar Games, Take-Two Interactive, Sony Interactive Entertainment or Microsoft. No game assets are included.
