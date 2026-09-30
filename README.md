@@ -52,6 +52,6 @@ Canonical page, methodology and live table: https://leonidalab.com/data/price-in
 ## License and citation
 CC BY 4.0. Credit **Leonida Lab** with a link to https://leonidalab.com/data/price-index/. ILO and World Bank data are also CC BY 4.0.
 
-> Leonida Lab (2026). GTA VI Global Price Index, version 2026-09-30. https://leonidalab.com/data/price-index/
+> Leonida Lab (2026). GTA VI Global Price Index (Version 2026-09-30) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23069190
 
 Unofficial. Not affiliated with Rockstar Games, Take-Two Interactive, Sony Interactive Entertainment or Microsoft. No game assets are included.

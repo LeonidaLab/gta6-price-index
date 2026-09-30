@@ -6,6 +6,7 @@ version: "2026-09-30"
 date-released: "2026-09-30"
 authors:
   - name: "Leonida Lab"
+doi: "10.5281/zenodo.23069190"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.22965405"
