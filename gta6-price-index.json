@@ -184,9 +184,9 @@
     "earnings_source": "ILO, ILOSTAT, Average monthly earnings of employees (DF_EAR_EMTA_SEX_CUR_NB), total, US$ series, latest year; figures before 2021 not used - CC BY 4.0",
     "url": "https://leonidalab.com/data/price-index/",
     "repository": "https://github.com/LeonidaLab/gta6-price-index",
-    "doi": null,
+    "doi": "10.5281/zenodo.24137895",
     "concept_doi": "10.5281/zenodo.22965405",
-    "citation": "Leonida Lab (2026). GTA VI Global Price Index, version 2026-11-11. https://leonidalab.com/data/price-index/",
+    "citation": "Leonida Lab (2026). GTA VI Global Price Index (Version 2026-11-11) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24137895",
     "columns": {
       "standard_price": "Standard Edition list price, local currency, as listed on the store",
       "standard_usd": "standard_price x fx_usd_per_unit, rounded to cents",
