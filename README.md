@@ -2,14 +2,15 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22965405.svg)](https://doi.org/10.5281/zenodo.22965405)
 
-What Grand Theft Auto VI costs in **63 markets**: the official Standard and Ultimate Edition prices from the PlayStation Store and the Xbox Store (**103 listings**), converted to US dollars at official reference exchange rates and set against average pay (ILO) and income (World Bank). Collected 2026-09-30; exchange rates of 2026-09-30.
+What Grand Theft Auto VI costs in **63 markets**: the official Standard and Ultimate Edition prices from the PlayStation Store and the Xbox Store (**103 listings**), converted to US dollars at official reference exchange rates and set against average pay (ILO) and income (World Bank). Collected 2026-11-11; exchange rates of 2026-11-10.
 
 Canonical page, methodology and live table: https://leonidalab.com/data/price-index/
 
-## Findings (Standard Edition, listings where the price includes tax)
-- Cheapest: Japan $62.42, India $62.60, South Korea $66.25
-- Most expensive: Israel (PlayStation) $103.79, Colombia (Xbox) $101.73, Hungary (PlayStation) $99.19
-- Hardest to afford (share of an average month's pay, ILO): India 24.6%, Colombia 20.4%, Ukraine 17.0%
+## Findings (Standard Edition; one figure per country: what the buyer pays at its cheaper store)
+- Cheapest: Japan $61.96, India $63.87, South Korea $67.06
+- Most expensive: Israel $100.75, Norway $100.25, Hungary $98.83
+- Hardest to afford (share of an average month's pay, ILO): Indonesia at least 36.5%, India 25.1%, Colombia 19.1%
+- Biggest difference between the two stores in one country: Colombia, $103.95 on Xbox against $95.19 on PlayStation
 
 ## Files
 - `gta6-price-index.csv` - one row per market and store (103 rows)
@@ -52,6 +53,6 @@ Canonical page, methodology and live table: https://leonidalab.com/data/price-in
 ## License and citation
 CC BY 4.0. Credit **Leonida Lab** with a link to https://leonidalab.com/data/price-index/. ILO and World Bank data are also CC BY 4.0.
 
-> Leonida Lab (2026). GTA VI Global Price Index (Version 2026-09-30) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23069190
+> Leonida Lab (2026). GTA VI Global Price Index, version 2026-11-11. https://leonidalab.com/data/price-index/
 
 Unofficial. Not affiliated with Rockstar Games, Take-Two Interactive, Sony Interactive Entertainment or Microsoft. No game assets are included.
